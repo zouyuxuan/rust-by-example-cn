@@ -21,7 +21,7 @@ git_repository_icon = "fa-github"
 
 [output.html.playpen]
 # editor = "./path/to/editor"
-editable = false
+editable = true
 
 [output.html.search]
 enable = true
